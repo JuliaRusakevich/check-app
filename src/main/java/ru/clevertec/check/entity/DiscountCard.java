@@ -6,7 +6,7 @@ public class DiscountCard {
 
     private int id;
     private int number;
-    int discountAmountInPercent;
+    private int discountAmountInPercent;
 
 
     public DiscountCard() {
